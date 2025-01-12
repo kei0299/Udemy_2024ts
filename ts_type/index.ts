@@ -13,4 +13,6 @@ const person = {
   },
   age: 21
 }
+const fruits: (string | number )[] = ['Apple','Banana','Grape',1]
+
 console.log(person.name)
